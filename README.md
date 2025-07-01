@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Bright
 
 🔧 Electrical & Computer Engineering major (CS minor) with hands-on experience in Hardware and power systems, embedded hardware, RF/wireless design, and system-level modeling.  
-💼 Interned at **Amazon (2023)** and **GlobalFoundries (2024)**, where I contributed to scalable hardware and silicon system design,Market R&D.
+💼 Interned at **Amazon (2023)** and **GlobalFoundries (2024)**,where I contributed to scalable hardware and silicon system design,Market R&D.
 🎯 Passionate about hardware-software co-design and actively pursuing opportunities in hardware engineering, embedded systems, Machine Learning Hardware and data center infrastructure.
 
 
