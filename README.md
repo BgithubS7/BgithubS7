@@ -10,7 +10,6 @@
 
 
 ---
-
 ### 🏆 Honors & Awards
 
 - 🌟 **National Honor Society – Leadership & Success Scholar**  
