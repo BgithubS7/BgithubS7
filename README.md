@@ -79,5 +79,5 @@ Power delivery systems, embedded diagnostics, low-level firmware tools
 
 
 
-> 💡 *"Greatness is not how you call yourself, it's how you live your life and inspire others"*
+> 💡 *"Greatness is not how you call yourself Bright, it's how you live your life and inspire others"*
 
