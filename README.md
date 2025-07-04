@@ -4,7 +4,7 @@
  hardware and power systems, embedded hardware, RF/wireless design, and system-level modeling.  
  💼 Interned at **Amazon (2023)** and **GlobalFoundries (2024)**, where I contributed to scalable  
  hardware, silicon system design, and market R&D.  
- 🎯 Passionate about hardware-software co-design and actively pursuing opportunities in  
+ 🎯 Passionate about electrical and computer engineering and actively pursuing opportunities in  
  **hardware engineering**, **embedded systems**, **machine learning hardware**, and  
  **data center infrastructure**.
 
