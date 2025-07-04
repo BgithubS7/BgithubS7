@@ -25,7 +25,7 @@
 - ⚡ Power Electronics & High-Voltage Systems (DC/DC Converters, BMS)
 - 🔬 RF & Wireless System Design (Low-Power IoT, RF Test & Characterization)
 - 🤖 Embedded Systems (C/C++, STM32, ESP32, Real-time control)
-- 📦 PCB Prototyping & Simulation (Altium, OrCAD X Professional, LTspice)
+- 📦 PCB Prototyping & Simulation (Altium, Cadence(OrCAD X Professional/Allergro), LTspice)
 - 🧪 Test Engineering (Python test automation, sensor calibration)
 - 📶 Edge AI on Hardware (TinyML, optimization, inference at the edge)
 - 📊 System-Level Power + Performance Modeling (SoC workloads)
