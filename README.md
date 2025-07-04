@@ -96,6 +96,8 @@ Power delivery systems, embedded diagnostics, low-level firmware tools
 
 
 
+
+
 ### 🔗 Connect With Me:
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/BrightMC450) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bright-maloba-chia) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/154302) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:brightm21@vt.edu) 
