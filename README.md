@@ -22,13 +22,48 @@
 
 ### 💼 Technical Focus Areas
 
-- ⚡ Power Electronics & High-Voltage Systems (DC/DC Converters, BMS)
-- 🔬 RF & Wireless System Design (Low-Power IoT, RF Test & Characterization)
-- 🤖 Embedded Systems (C/C++, STM32, ESP32, Real-time control)
-- 📦 PCB Prototyping & Simulation (Altium, Cadence(OrCAD X Professional/Allergro), LTspice)
-- 🧪 Test Engineering (Python test automation, sensor calibration)
-- 📶 Edge AI on Hardware (TinyML, optimization, inference at the edge)
-- 📊 System-Level Power + Performance Modeling (SoC workloads)
+## 🛠️ Technical Proficiencies
+
+### ⚡ Power Electronics & High-Voltage Systems
+- DC/DC Converters (Buck, Boost, Flyback)
+- Battery Management Systems (BMS) — High-side/Low-side protection, charge/discharge control
+
+### 🔬 RF & Wireless System Design
+- Low-Power RF (433 MHz, LoRa, NRF24, BLE)
+- RF Test & Characterization: S-parameters, VSWR, return loss
+- Spectrum Analysis, impedance matching, antenna tuning
+
+### 🤖 Embedded Systems
+- Firmware in **C/C++** for **STM32**, **ESP32**
+- Real-time control with RTOS, interrupts, low-power modes
+- Peripheral interfacing: I2C, SPI, UART, GPIO, PWM
+
+### 📦 PCB Prototyping & Simulation
+- PCB Design: **Altium Designer**, **Cadence OrCAD X / Allegro**
+- Signal/power integrity simulation using **LTspice**
+- DFM best practices, schematic & footprint libraries
+
+### 🧪 Test Engineering & Instrumentation
+- Python test automation: `PyVisa`, `unittest`, `matplotlib`
+- Sensor calibration workflows
+- **Hands-on Test Equipment**:
+  - 🧠 Oscilloscope (Analog/Digital)
+  - 🌐 Vector Network Analyzer (VNA)
+  - 📡 Spectrum Analyzer
+  - 🔍 Digital Multimeter (DMM)
+  - 📶 Signal Generator
+  - 🧭 Keysight FieldFox N9917B
+
+### 📶 Edge AI on Hardware
+- **TinyML**, TensorFlow Lite for Microcontrollers
+- Model quantization, pruning, edge optimization
+- Real-time sensor inference on **ESP32/STM32**
+
+### 📊 System-Level Power & Performance Modeling
+- SoC workload profiling and analysis
+- Real-time current monitoring via **INA219/INA260**
+- Power benchmarking: sleep vs active, senso
+
 
 ---
 
