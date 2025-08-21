@@ -11,7 +11,7 @@
 
 ---
 ### 🏆 Honors & Awards
-- 🏆 **Grow With Google scholar**
+- 🏆 **Grow With Google Scholarship Awardee - Grow with Google Program 2025**
 - 🌟 **National Honor Society – Leadership & Success Scholar**  
 - 🎖️ **Inducted into the National Society of Leadership and Success (NSLS)**  
 - 🚀 **NASA L'SPACE and MPWEE Scholar**  
